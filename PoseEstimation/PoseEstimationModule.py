@@ -54,8 +54,6 @@ def main():
         img = rescale_frame(img, 45)
         img = detector.findlocPose(img)
         lmList = detector.getPosition(img)
-        print(lmList[0])
-
         cTime = time.time()
         fps = 1 / (cTime - pTime)
         pTime = cTime
