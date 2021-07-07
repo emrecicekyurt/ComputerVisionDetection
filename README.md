@@ -5,7 +5,7 @@ The modules are created to use the basics of the project in another project. The
 <p align="center">
   <img src="images/PoseEstimation.png" width="400" title="ss1">
   <img src="images/faceDetect.png" width="400" title="ss2">
-  <img src="images/hand_landmarks.png" width="400" title="ss2">
+  <img src="images/meshSSN.PNG" height="300" title="ss2">
   
 </p>
 
